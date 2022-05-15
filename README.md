@@ -1,4 +1,4 @@
-<img src="https://ibb.co/6nwJG0V" width="100%">
+<img src="../img/header.jpg" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarahgerrard/" target="_blank">
