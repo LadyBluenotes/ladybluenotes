@@ -1,4 +1,4 @@
-<img src="/gerrardsarah/img/header.jpg" width="100%">
+<img src="/header.jpg" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarahgerrard/" target="_blank">
