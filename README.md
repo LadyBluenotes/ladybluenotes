@@ -60,8 +60,8 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API allowing the user to create and maintain a task list.</p>
 </div>
-  
-  
+  </tr>
+<tr>
   <h3 align="center" color="white">The Happy Hour Guide</h2>
 <div align="center" >  
 <a href=''> 
@@ -82,6 +82,7 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - In this project, an API was used to allow users to generate the recipes to either their favourite recipes or allow them to select a random one!</p>
 </div>
+  <tr>
 </td>
 
 
