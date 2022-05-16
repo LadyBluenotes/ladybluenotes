@@ -19,9 +19,7 @@
 - 👯 I’m looking for opportunities to collaborate on Open-source Projects.
 - 💬 Feel free to connect with me through Twitter or LinkedIn!
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gerrardsarah&show_icons=true&theme=dark" alt="gerrardsarah" /> 
-</p>
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -32,3 +30,58 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   </p>
+ <br>
+ 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gerrardsarah&show_icons=true&theme=dark" alt="gerrardsarah" /> 
+</p>
+  
+ <h2 align="center">Highlighted Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Task List</h2>
+<div align="center" >  
+<a href='![peacefultasklist](https://user-images.githubusercontent.com/98355961/168664194-ac259c83-86f1-4f99-85f2-eac93eed3e83.png)'> 
+</a>
+  
+ ![peacefultasklist](https://user-images.githubusercontent.com/98355961/168664194-ac259c83-86f1-4f99-85f2-eac93eed3e83.png)
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com/gerrardsarah/TaskList" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://peacefultasks.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API allowing the user to create and maintain a task list.</p>
+</div>
+  
+  
+  <h3 align="center" color="white">The Happy Hour Guide</h2>
+<div align="center" >  
+<a href=''> 
+</a>
+  
+![thehappyhourguide](https://user-images.githubusercontent.com/98355961/168665866-b00c2cf9-8680-42d8-b887-8041c23b3dd2.jpg)
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com/gerrardsarah/TheHappyHourGuide" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://thehappyhourguide.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - In this project, an API was used to allow users to generate the recipes to either their favourite recipes or allow them to select a random one!</p>
+</div>
+</td>
+
+
