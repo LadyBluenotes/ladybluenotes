@@ -15,7 +15,7 @@
 <h2 > 👋 Hello! Nice to meet you!</h2>
 
 - 💁‍♀️ My name is Sarah and I'm a full-stack software developer based in Canada
-- 💻 I build projects using the MERN stack at the 100Devs Agency.
+- 💻 I build projects using MERN stack at the 100Devs Agency.
 - 👯 I’m looking for opportunities to collaborate on Open-source Projects.
 - 💬 Feel free to connect with me through Twitter or LinkedIn!
 
