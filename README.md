@@ -21,7 +21,7 @@
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer">
@@ -32,8 +32,9 @@
   </p>
  <br>
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ladybluenotes&show_icons=true&theme=dark" alt="gerrardsarah" /> 
-</p>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ladybluenotes&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="ladybluenotes github streak" align='center'>
+ </p>
   
  <h2 align="center">Highlighted Projects </h2>
 <div align="center">
