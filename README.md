@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sarahgerrard/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/SarahxCodes" target="_blank">
+  <a href="https://twitter.com/ladybluenotes" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
@@ -32,7 +32,7 @@
   </p>
  <br>
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gerrardsarah&show_icons=true&theme=dark" alt="gerrardsarah" /> 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ladybluenotes&show_icons=true&theme=dark" alt="gerrardsarah" /> 
 </p>
   
  <h2 align="center">Highlighted Projects </h2>
@@ -46,7 +46,7 @@
  ![peacefultasklist](https://user-images.githubusercontent.com/98355961/168664194-ac259c83-86f1-4f99-85f2-eac93eed3e83.png)
 
 <p>
-<a href="https://github.com/gerrardsarah/TaskList" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/ladybluenotes/TaskList" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
 <a href="https://peacefultasks.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/></a>
   </p>
@@ -61,7 +61,7 @@
 ![thehappyhourguide](https://user-images.githubusercontent.com/98355961/168665866-b00c2cf9-8680-42d8-b887-8041c23b3dd2.jpg)
 
 <p>
-<a href="https://github.com/gerrardsarah/TheHappyHourGuide" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/ladybluenotes/TheHappyHourGuide" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
 <a href="https://thehappyhourguide.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
