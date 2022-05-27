@@ -20,7 +20,7 @@
 - 💬 Feel free to connect with me through Twitter or LinkedIn!
 
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" >Languages and Tools:</h3>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
