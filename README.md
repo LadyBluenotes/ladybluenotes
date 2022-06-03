@@ -51,7 +51,7 @@
     
 <a href="https://peacefultasks.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/></a>
   </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API allowing the user to create and maintain a task list.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application allowing the user to create and maintain a task list.</p>
 </div>
 </td>
 <td><h3 align="center" color="white">The Happy Hour Guide</h3>
