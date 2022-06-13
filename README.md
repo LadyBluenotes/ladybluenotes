@@ -37,11 +37,11 @@
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ladybluenotes&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="ladybluenotes github streak" align='center'>
  </p>
-  
  <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table style="width:50%;">
-<td><h3 align="center" color="white">Task List</h2>
+<td>
+  <h3 align="center" color="white">Task List</h2>
 <div align="center" >  
 <a href='![peacefultasklist](https://user-images.githubusercontent.com/98355961/168664194-ac259c83-86f1-4f99-85f2-eac93eed3e83.png)'> 
 </a>
@@ -56,7 +56,9 @@
 <p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application allowing the user to create and maintain a task list.</p>
 </div>
 </td>
-<td><h3 align="center" color="white">The Happy Hour Guide</h3>
+<td>
+  <br>
+  <h3 align="center" color="white">The Happy Hour Guide</h3>
 <div align="center" >  
 <a href=''> 
 </a>
@@ -72,12 +74,13 @@
 <p><strong>JavaScript, CSS3, HTML5</strong> - In this project, an API was used to allow users to generate the recipes to either their favourite recipes or allow them to select a random one!</p>
 </div>
   </td>
-  <td><h3 align="center" color="white">Welcome to Space</h3>
+  <td>
+    <h3 align="center" color="white">Welcome to Space</h3>
 <div align="center" >  
 <a href=''> 
 </a>
-  
 
+![welcomeToSpace](https://user-images.githubusercontent.com/98355961/173437239-b1416aa2-bf65-4166-af8f-84382c89eb60.png)
 
 <p>
 <a href="https://github.com/LadyBluenotes/NASA" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -85,7 +88,7 @@
 <a href="https://welcometospace.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Using the NASA APOD (Astronomy Photo of the Day) API, users can generate the photos of the day based on date. Users will recieve the title, copywrite notice, and the photo of the day alongisde the description.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Using the NASA APOD API, users can generate the photos of the day based on date.
 </div>
   </td>
 </table>
