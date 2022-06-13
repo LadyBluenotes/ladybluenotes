@@ -72,6 +72,22 @@
 <p><strong>JavaScript, CSS3, HTML5</strong> - In this project, an API was used to allow users to generate the recipes to either their favourite recipes or allow them to select a random one!</p>
 </div>
   </td>
+  <td><h3 align="center" color="white">Welcome to Space</h3>
+<div align="center" >  
+<a href=''> 
+</a>
+  
+
+
+<p>
+<a href="https://github.com/LadyBluenotes/NASA" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://welcometospace.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Using the NASA APOD (Astronomy Photo of the Day) API, users can generate the photos of the day based on date. Users will recieve the title, copywrite notice, and the photo of the day alongisde the description.</p>
+</div>
+  </td>
 </table>
 
 
