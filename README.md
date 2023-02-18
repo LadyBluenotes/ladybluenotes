@@ -1,4 +1,5 @@
-<img src="/header.jpg" width="100%">
+<br>
+<h1 align="center">Hi! My name's Sarah, nice to meet you! 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarahgerrard/" target="_blank">
@@ -7,33 +8,90 @@
   <a href="https://twitter.com/ladybluenotes" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://sarahgerrard.me" target="_blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://blog.sarahgerrard.me" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </p>
 
-<h2 > 👋 Hello! Nice to meet you!</h2>
-
-- 💁‍♀️ My name is Sarah and I'm a full-stack software developer based in Canada
-- 💻 I build projects using MERN stack.
-- 👯 I’m looking for opportunities to collaborate on Open-source Projects.
-- 💬 Feel free to connect with me through Twitter or LinkedIn!
-
-<br>
-<h3 align="center" >Languages and Tools:</h3>
+<h3 align="center">I'm a software developer based out of Canada 🇨🇦</h3>
 
 <div align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  </p>
- </div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ladybluenotes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ladybluenotes/github-readme-stats#gh-dark-mode-only" />
+  
+</div>
+
+<h2>🥳  I enjoy:</h2>
+<ul>
+  <li>
+    Learning and building in public.
+  </li>
+  <li>
+    Community building.
+  </li>
+  <li>
+    Contributing to Open Source projects.
+  </li>
+  <li>
+    Continuous learning.
+  </li>
+ </ul>
+
  <br>
  
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ladybluenotes&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="ladybluenotes github streak" align='center'>
- </p>
+ <h2>🖥️ My skills:</h2>
+<ul>
+  <li>
+    Building responsive sites full stack applications using various technologies.
+  </li>
+  <li>
+    Building RESTful APIs
+  </li>
+  <li>
+    Technical copy writing and content creation
+  </li>
+  <li>
+    Open source contributing.
+  </li>
+ </ul>
+
+<div align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladybluenotes&layout=compact)](https://github.com/ladybluenotes/github-readme-stats)
+
+</div>
+
+<h2>📱  Want to connect?</h2>
+<ul>
+   <li>
+     <a href="https://twitter.com/LadyBluenotes">Follow me on Twitter</a>
+  </li>
+  <li>
+     <a href="https://www.linkedin.com/in/sarahgerrard/">Connect with me on LinkedIn</a>
+  </li>
+  <li>
+     <a href="https://blog.sarahgerrard.me/">Read my blog</a>
+  </li>
+</ul>
+
+<br>
+
+<h2>💬 Fun facts about me: </h2>
+<ul>
+   <li>
+     I made the switch from HealthCare to Tech to be able to better exercise my problem-solving skills.
+  </li>
+  <li>
+     The first time I ever coded, I was manipulating HTML and CSS to make Neopets pages and Tumblr templates.
+  </li>
+  <li>
+     In my spare time, I enjoy playing games like Destiny 2, Apex, Red Dead Redepmtion 2, and the Sims.
+  </li>
+</ul>
+
+<h3 align="center">📝 Want to see what I'm working on? <a href="https://docs.sarahgerrard.me/">Click Here</a>
+
+ 
