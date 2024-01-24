@@ -88,7 +88,7 @@
      The first time I ever coded, I was manipulating HTML and CSS to make Neopets pages and Tumblr templates.
   </li>
   <li>
-     In my spare time, I enjoy playing games like Destiny 2, Apex, Red Dead Redepmtion 2, and the Sims.
+     In my spare time, I enjoy playing games like Destiny 2, Apex, Red Dead Redemption 2, and the Sims.
   </li>
 </ul>
 
