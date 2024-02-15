@@ -15,9 +15,6 @@
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </p>
-
-<h3 align="center">I'm a software developer based out of Canada 🇨🇦</h3>
-
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ladybluenotes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ladybluenotes/github-readme-stats#gh-dark-mode-only" />
