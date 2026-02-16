@@ -13,7 +13,7 @@ oss → solidjs · tanstack · playfulprogramming
 
 web    → sarahgerrard.me
 bsky   → @ladybluenotes.dev
-email  → hello@sarahgerrard.dev
+email  → hello@sarahgerrard.me
 ```
 
 <div align="center">
