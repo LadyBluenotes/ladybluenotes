@@ -9,7 +9,7 @@ user → sarah / @ladybluenotes
 
 availability → looking for new opportunities
 
-oss → solidjs · tanstack · playfulprogramming
+oss → solidjs · tanstack · playfulprogramming · kobalte
 
 web    → sarahgerrard.me
 bsky   → @ladybluenotes.dev
