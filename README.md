@@ -7,7 +7,7 @@ user → sarah / @ladybluenotes
   ✓ accessibility & performance
   ✓ developer experience & tooling
 
-availability → looking for new opportunities
+work → senior SWE @ microsoft
 
 oss → solidjs · tanstack · playfulprogramming · kobalte
 
